@@ -55,3 +55,7 @@ The project generates a dot art pattern by positioning dots in a grid, each with
 - Python 3.6+
 - `colorgram.py` library
 - `turtle` (comes with Python)
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
